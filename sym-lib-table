@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "CY7C68013A-100AXC")(type "Legacy")(uri "${KIPRJMOD}/lib/CY7C68013A-100AXC/CY7C68013A-100AXC.lib")(options "")(descr ""))
+)
